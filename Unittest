@@ -1,0 +1,10 @@
+When comparing unittest vs pytest,that recommends pytest for most people.
+In the question“What are the best Python unit testing frameworks?” 
+pytest is ranked 1st while unittest is ranked 3rd. The most important reason people chose pytest is:
+
+The idioms that pytest first introduced brought a change in the Python community 
+because they made it possible for test suites to be written in a very compact style, 
+or at least far more compact than was ever possible before.
+Pytest basically introduced the concept that Python tests should be plain Python functions instead of forcing
+developers to include their tests inside large test classes.
+
